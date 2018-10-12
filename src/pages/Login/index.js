@@ -1,9 +1,9 @@
-import React, { Component } from "react";
-import "./style.css";
+import React, { Component } from 'react';
+import './style.css';
 
 class Login extends Component {
   render() {
-    return <div />;
+    return <div className="body">Ini Login</div>;
   }
 }
 

@@ -1,9 +1,9 @@
-import React, { Component } from "react";
-import "./style.css";
+import React, { Component } from 'react';
+import './style.css';
 
 class CreateMeetup extends Component {
   render() {
-    return <div />;
+    return <div className="body">Ini CreateMeetup</div>;
   }
 }
 

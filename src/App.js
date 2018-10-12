@@ -1,14 +1,11 @@
 import React, { Component } from 'react';
-import { Home, CreateMeetup, Explore, Login } from './pages';
+import { Home } from './pages';
 
 class App extends Component {
   render() {
     return (
       <div>
         <Home />
-        <CreateMeetup />
-        <Explore />
-        <Login />
       </div>
     );
   }
